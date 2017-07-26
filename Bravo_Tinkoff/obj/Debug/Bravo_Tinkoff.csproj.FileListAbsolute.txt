@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\obj\Debug\Bravo_Tinkoff.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\bin\Debug\Bravo_Tinkoff.exe.config
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\bin\Debug\Bravo_Tinkoff.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\bin\Debug\Bravo_Tinkoff.pdb
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\obj\Debug\Bravo_Tinkoff.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\Bravo_Tinkoff\Bravo_Tinkoff\obj\Debug\Bravo_Tinkoff.pdb
